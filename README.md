@@ -4,14 +4,14 @@
 
 - **Name:** Kesav
 - **Registration Number:** 252U1R9068
-- **Section:** [Your Section]
+- **Section:** CSE-GENAI-304
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** 01
 
 ## Links
 
 - **GitHub Repository:** https://github.com/kesavkolla6-art/lab_1
-- **Live Deployment URL:** `https://<your-render-service-name>.onrender.com` *(Replace with your Render deployment URL once deployed)*
+- **Live Deployment URL:** https://lab-1-node-server.onrender.com
 
 *(Note: Render's free tier spins down idle services; the first request after inactivity may take up to a minute while the instance spins up.)*
 
